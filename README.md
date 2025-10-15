@@ -119,9 +119,9 @@ Las condiciones devuelven 1 (verdadero) o 0 (falso).
 
 | Archivo | Descripción |
 |----------|-------------|
-| VM_correcto.html | Aplicación web del lenguaje: interfaz visual con figuras, parser RPN y ejecución animada. |
+| VM.html | Aplicación web del lenguaje: interfaz visual con figuras, parser RPN y ejecución animada. |
 | MV2.0.py | Versión en Python de la Máquina Virtual basada en pila (procesa instrucciones del lenguaje). |
-| proyecto 1- figuras geométricas 2.pdf | Documento con la explicación completa del lenguaje y la presentación del proyecto. |
+| proyecto 1- figuras geométricas.pdf | Documento con la explicación completa del lenguaje y la presentación del proyecto. |
 | README.md | Documento informativo del repositorio con estructura, objetivos y guía de ejecución. |
 
 ---
